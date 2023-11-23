@@ -1,4 +1,4 @@
-Assignments for Sigrid Workshop
+Assignments for Sigrid Workshop!
 ==========
 This repository is part of the Sigrid training.<br />
 You will need access to Sigrid to complete this training.<br />
